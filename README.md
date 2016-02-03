@@ -1,7 +1,7 @@
 # fenero
 A Python module for the Fenero Cloud Contact Center API
 
-Written and tested in python 3.5
+Written and tested in Python 3.5
 
 ## Usage
 
