@@ -5,7 +5,7 @@ Written and tested in Python 3.5
 
 ## Usage
 
-Save fenero.py into the same directory as your pyhton script
+Save fenero.py into the same directory as your python script
 
 ```python
 from fenero import APICall
